@@ -1,0 +1,6 @@
+NAME_0,NAME_1,NAME_2,<name>,No.Beds,Price(EUR),Property Type,Shared Occupancy,Link to property,Property Type Mapped,ID,Property Type Mapped,Latitude,Longitude
+China,Gansu,Jiuquan,"Anxi, Jiuquan",Room,500,Room,Y,https://www.example.com/1,n/a,n/a,0.lm_permanent_room,31.220935,121.452787
+China,Fujian,Quanzhou,"Anxi, Quanzhou",Studio,600,Studio,N,https://www.example.com/2,n/a,n/a,1.lm_studio,31.224274,121.432733
+China,Chongqing,Chongqing,"Ba, Chongqing",1,900,1,N,https://www.example.com/3,n/a,n/a,2.lm_1_bed_room,31.247532,121.399012
+China,Hebei,Langfang,"Ba, Langfang",2,1200,2,N,https://www.example.com/4,n/a,n/a,3.lm_2_bed_room,31.339198,121.341589
+China,Xinjiang Uygur,Aksu,"Baicheng, Aksu",3,1600,3,N,https://www.example.com/5,n/a,n/a,4.lm_3_bed_room,30.987503,121.213713

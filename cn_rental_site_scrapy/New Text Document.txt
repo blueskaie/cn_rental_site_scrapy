@@ -1,0 +1,23 @@
+Ok the data is ready, it was easier than I thought!
+
+I have provided a CSV file and a KML file.
+
+The KML file is a map of china with polygons for each area of China
+The CSV file is a list of all of the polygons in the KML
+
+Column D in the CSV represents the <name> tag in the KML.
+
+We need to have a unique value in the <name> tag, currently the majority of the polygons have unique names.
+For the polygons without unique names we have to give them a unique name, this name is in column E.
+
+You will need to change the non-unique <name> values in the KML with the corresponding names in Column D.
+
+Once you have done that, we will have a KML file with unique <name> values
+
+Next.
+
+After scraping all of the properties in the website, you will have a csv file of every Studio, One Bedroom, Two Bedroom and Three Bedroom property on the website with their coordinates.
+
+Using the coordinates you will check the KML to assign each property to a polygon.
+
+This is how you will fill in Column A in the template.
